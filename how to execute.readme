@@ -1,0 +1,19 @@
+To compile and run the code, follow these steps:
+
+Create a new directory for your project.
+
+Inside the project directory, create the following files:
+
+main.cpp: This file will contain the code provided in the previous response.
+city.name: Create this file and enter the names of cities, each on a new line.
+flight.txt: Create this file and enter the flight routes, each on a new line in the format "sourceCity destinationCity".
+Open the main.cpp file and replace the code with the code provided in the previous response.
+
+Save the files.
+
+Open a terminal or command prompt and navigate to the project directory.
+g++ main.cpp -o flight
+./flight
+This will execute the compiled program and display the output based on the logic implemented in the code.
+
+Please note that the provided code assumes that the city.name and flight.txt files are present in the same directory as the main.cpp file. Make sure to provide the correct information in those files.
